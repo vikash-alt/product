@@ -1,1 +1,5 @@
-kYa haal hai bhai
+package com.product.entity;
+
+public class Example {
+
+}
